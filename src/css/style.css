@@ -14,7 +14,6 @@
 body {
     font-family: var(--main-font);
     font-size: var(--main-h1-font-size);
-    font-family: var(--main-font);
     display: flex;
     justify-content: center;
     align-items: center;
